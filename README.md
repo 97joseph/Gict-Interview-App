@@ -1,13 +1,11 @@
 # Gict-Interview-App
  Data App
  
- # Simple Application
-#### App is running live <a href="http://earsplitting-crook.surge.sh">here</a>
-#### Another version from branch main with dummy data on Tab 2 is running <a href="http://lamentable-picture.surge.sh">here.</a>
+
+
 ## Tech
->1. Typescript
->2. React
->3. Redux
+1. Typescript
+2.Rect JS and Nodejs
 
 ## Requirements
 1. Navigation Header
